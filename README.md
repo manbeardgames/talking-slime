@@ -1,5 +1,7 @@
 # Talking Slime
-This is a small demo project that I use on my [Twitch stream]() to animate the talking of a 2D slime sprite for my on stream avatar.
+This is a small demo project that I use on my [Twitch stream](https://www.twitch.tv/manbeardgames) to animate the talking of a 2D slime sprite for my on stream avatar.
+
+You can see it in action [in this Tweet](https://twitter.com/manbeardgames/status/1354526488629047298)
 
 ## Usage
 The code for the application resides in the **TalkingSlime.cs** file.  At the top of the class are serval fields that have been marked as the ones that can be adjusted to suite your needs.
